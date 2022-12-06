@@ -1,0 +1,1 @@
+/home/benc/Documents/advent-of-code-2022/day02/target/debug/day02: /home/benc/Documents/advent-of-code-2022/day02/src/main.rs /home/benc/Documents/advent-of-code-2022/day02/src/part1.rs /home/benc/Documents/advent-of-code-2022/day02/src/part2.rs
